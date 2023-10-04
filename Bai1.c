@@ -3,7 +3,10 @@
 #include <math.h>
  
 #define CHUVI(A,B,C)   (A) + (B) + (C)
-#define DIENTICH(A,B,C)  ((A) + (B) + (C)) *  ((A) + (B) - (C)) *  ((B) + (C) - (A)) *  ((C) + (A) - (B)) 
+#define DIENTICH(A,B,C)  ((A) + (B) + (C)) *  ((A) + (B) - (C)) *  ((B) + (C) - (A)) *  ((C) + (A) - (B))
+
+
+ 
 typedef struct
 {
 	float  A,B,C;
