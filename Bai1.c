@@ -5,7 +5,7 @@
 #define CHUVI(A,B,C)   (A) + (B) + (C)
 #define DIENTICH(A,B,C)  ((A) + (B) + (C)) *  ((A) + (B) - (C)) *  ((B) + (C) - (A)) *  ((C) + (A) - (B))
 co con chim vanh khuyen nho thich an meo
-
+em yeu truong em voi  bao ban than
  
 typedef struct
 {
